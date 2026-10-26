@@ -1,0 +1,2 @@
+rootProject.name = 'Microservice_Rikkei_Session15_Ex02'
+include 'gateway-service', 'course-service'

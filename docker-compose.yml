@@ -1,0 +1,7 @@
+services:
+  gateway-service:
+    ports:
+      - "8888:8888"
+  course-service:
+    ports:
+      - "8082:8082"
